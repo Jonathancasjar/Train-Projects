@@ -1,3 +1,2 @@
-# Train-Projects
-
-Here I share all the projects I do to improve my ML development skills.
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
